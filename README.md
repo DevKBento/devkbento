@@ -1,8 +1,8 @@
 ### Fala Jovem, tudo bem? Aqui Anderson Bento👋
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKBento&show_icons=true&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKBento&layout=compact&theme=merko"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevKBento&show_icons=true&theme=merko"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKBento&layout=compact&theme=merko"/>
 </div>
 
 <div>
