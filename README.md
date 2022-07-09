@@ -1,10 +1,10 @@
 ### Fala Jovem, tudo bem? Aqui Anderson Bento👋
 
-Desenvolvedor Full Stack sempre aprendendo
+Desenvolvedor Full Stack carregando...
 
 <div>
 <img height="180" width="380" src="https://github-readme-stats.vercel.app/api?username=DevKBento&show_icons=true&theme=merko"/>
-<img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKBento&layout=compact&theme=merko"/>
+<img height="180" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKBento&layout=compact&theme=merko"/>
 </div>
 
 <div>
