@@ -1,7 +1,5 @@
 ### Fala Jovem, tudo bem? Sou Anderson Bento👋
 
-Desenvolvedor Full Stack carregando...
-
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00B37E&width=600&lines=Desenvolvedor+Full+Stack;Dados%2C+BI+e+Automa%C3%A7%C3%A3o;Python+%7C+Node.js+%7C+PostgreSQL;Qlik+Sense+%7C+Qlik+Cloud" alt="Typing SVG" />
 </div>
