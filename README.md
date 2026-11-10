@@ -3,8 +3,14 @@
 Desenvolvedor Full Stack carregando...
 
 <div>
-<img height="180" width="380" src="https://github-readme-stats.vercel.app/api?username=DevKBento&show_icons=true&theme=merko"/>
-<img height="180" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKBento&layout=compact&theme=merko"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00B37E&width=600&lines=Desenvolvedor+Full+Stack;Dados%2C+BI+e+Automa%C3%A7%C3%A3o;Python+%7C+Node.js+%7C+PostgreSQL;Qlik+Sense+%7C+Qlik+Cloud" alt="Typing SVG" />
+</div>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevKBento/DevKBento/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/DevKBento/DevKBento/output/snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 <div>
